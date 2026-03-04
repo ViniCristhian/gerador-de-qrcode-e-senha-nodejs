@@ -7,3 +7,5 @@ const mainPrompt = [
         require: true,
     },
 ];
+
+export default mainPrompt;
